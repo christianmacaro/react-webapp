@@ -11,7 +11,7 @@
     "faker": "^4.1.0",
     "jest": "23.6.0",
     "jest-cli": "23.6.0",
-    "puppeteer": "^1.11.0"
+    "puppeteer": "^1.13.0"
   },
   "scripts": {
     "start": "react-scripts start",
